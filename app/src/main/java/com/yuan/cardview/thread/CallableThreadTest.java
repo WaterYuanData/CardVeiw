@@ -9,7 +9,7 @@ import java.util.concurrent.FutureTask;
 /**
  * Callable的使用
  */
-public class ThreadTest {
+public class CallableThreadTest {
     private static final String TAG = "ThreadTest";
 
     // 静态方法只能调用静态内部类
